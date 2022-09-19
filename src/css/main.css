@@ -57,3 +57,36 @@ body {
   padding: 15px 191px;
   position: fixed;
 }
+
+.position-1,
+.position-2,
+.position-3,
+.position-4 {
+  padding: 15px;
+}
+
+.position-1 {
+  padding-top: 70px;
+  position: relative;
+}
+
+.square-first {
+  background: #D8D8D8;
+  padding: 22px;
+  margin: 0 160px;
+  position: absolute;
+  top: 85px;
+  right: -130px;
+}
+
+.rectangle-first-red {
+  background: #E00000;
+  padding: 20px 40px;
+  margin: 50px 110px;
+  transform: rotate(90deg);
+  position: absolute;
+  bottom: 30px;
+  left: -130;
+}
+
+}
