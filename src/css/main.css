@@ -122,14 +122,26 @@ body {
 .little-squares {
   display: inline;
   background: #D8D8D8;
-  padding: 12px 12px;
+  padding: 10px 10px;
   margin: 5px 5px;
 }
 
 .little-squares-1 {
   position: absolute;
-  top: 45px;
+  top: 25px;
   left: 25px;
+}
+
+.little-squares-2 {
+  position: absolute;
+  top: 25px;
+  left: 55px;
+}
+
+.little-squares-3 {
+  position: absolute;
+  top: 25px;
+  left: 85px;
 }
 
 }
