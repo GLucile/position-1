@@ -101,4 +101,18 @@ body {
   bottom: 15px;
 }
 
+.position-3 {
+  position: relative;
+}
+
+.bgd-rectangle {
+  opacity: 0.58;
+  background: #D8D8D8;
+  padding: 82px 160px;
+  margin: 20px;
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
+
 }
