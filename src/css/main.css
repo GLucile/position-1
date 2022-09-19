@@ -89,4 +89,16 @@ body {
   left: -130;
 }
 
+.position-2 {
+  position: relative;
+}
+
+.bottom-banner {
+  opacity: 0.58;
+  background: #D8D8D8;
+  padding: 22px 180px;
+  position: absolute;
+  bottom: 15px;
+}
+
 }
