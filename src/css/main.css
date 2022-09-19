@@ -164,4 +164,23 @@ body {
   justify-content: space-around;
   margin: 10px 8px 10px 12px;
   padding-bottom: 15px;
+  position: relative;
+}
+
+.little-banner {
+  opacity: 0.7;
+  background: #D8D8D8;
+  padding: 22px 87.5px;
+}
+
+.lb-1 {
+  position: absolute;
+  bottom: 15px;
+  left: 5px;
+}
+
+.lb-2 {
+  position: absolute;
+  bottom: 15px;
+  right: 5px;
 }
