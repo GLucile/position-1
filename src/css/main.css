@@ -145,4 +145,16 @@ body {
   left: 85px;
 }
 
+.little-rectangle {
+  background-color: #D8D8D8;
+  padding: 20px 30px 20px 40px;
+  margin: 15px 5px 25px 15px;
+  position: absolute;
+  top: 80px;
+  left: 145px;
+}
+
+.position-5 img {
+  width: 50%;
+  position: re;
 }
