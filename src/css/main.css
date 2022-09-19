@@ -115,4 +115,21 @@ body {
   right: 15px;
 }
 
+.position-4 {
+  position: relative;
+}
+
+.little-squares {
+  display: inline;
+  background: #D8D8D8;
+  padding: 12px 12px;
+  margin: 5px 5px;
+}
+
+.little-squares-1 {
+  position: absolute;
+  top: 45px;
+  left: 25px;
+}
+
 }
