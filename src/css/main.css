@@ -51,3 +51,9 @@ body {
   box-shadow: 0px 0px 20px #4C4C4C;
 }
 
+.top-wall {
+  background: #4C4C4C;
+  color: #4C4C4C;
+  padding: 15px 191px;
+  position: fixed;
+}
