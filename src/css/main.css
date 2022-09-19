@@ -155,6 +155,13 @@ body {
 }
 
 .position-5 img {
-  width: 50%;
-  position: re;
+  width: 47%; 
+}
+
+.position-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 10px 8px 10px 12px;
+  padding-bottom: 15px;
 }
