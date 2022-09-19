@@ -56,6 +56,7 @@ body {
   color: #4C4C4C;
   padding: 15px 191px;
   position: fixed;
+  z-index: 2;
 }
 
 .position-1,
@@ -84,9 +85,9 @@ body {
   padding: 20px 40px;
   margin: 50px 110px;
   transform: rotate(90deg);
-  position: absolute;
-  bottom: 30px;
-  left: -130;
+  position: fixed;
+  top: 130px;
+  left: -130px;
 }
 
 .position-2 {
